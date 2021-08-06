@@ -36,12 +36,14 @@ g++ updater.cpp -o updater -lssl -lcrypto -lstdc++
 
 <br>  
 정상적으로 실행되면 이렇게 뜬다
-![image](https://user-images.githubusercontent.com/77532413/128473134-9b03abbc-0559-445b-8d2c-25cb07e37b3b.png)
+![image](https://user-images.githubusercontent.com/77532413/128475489-0c24c4cd-caa7-43be-97a7-8f8f39819f45.png)
 
 수정하는 과정에서 캡처해서 파일이름이 좀 다르다 양해 부탁             
 <br>  <br>  
 그리고 /var/update_test/ 하위에 이런 구조가 생성됨
+
 ![image](https://user-images.githubusercontent.com/77532413/128473336-e38e63bd-77f0-4f26-a0ec-9e2dc03f2aa2.png)
+
 
 
 해당 경로가 존재하지 않으면 에러뜸           
