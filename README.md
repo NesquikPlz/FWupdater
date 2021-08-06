@@ -35,7 +35,7 @@ g++ updater.cpp -o updater -lssl -lcrypto -lstdc++
 시리얼코드 같이 사용자에게 주어졌다고 가정했음       
 
 <br>  
-정상적으로 실행되면 이렇게 뜬다
+정상적으로 실행되면 이렇게 뜬다!<br>
 ![image](https://user-images.githubusercontent.com/77532413/128475566-4386720f-1443-44ca-b063-a742d058088a.png)
 
 
