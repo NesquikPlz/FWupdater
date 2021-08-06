@@ -36,7 +36,9 @@ g++ updater.cpp -o updater -lssl -lcrypto -lstdc++
 
 <br>  
 정상적으로 실행되면 이렇게 뜬다
-![image](https://user-images.githubusercontent.com/77532413/128475489-0c24c4cd-caa7-43be-97a7-8f8f39819f45.png)
+![image](https://user-images.githubusercontent.com/77532413/128475566-4386720f-1443-44ca-b063-a742d058088a.png)
+
+
 
 수정하는 과정에서 캡처해서 파일이름이 좀 다르다 양해 부탁             
 <br>  <br>  
