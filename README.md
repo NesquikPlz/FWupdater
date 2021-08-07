@@ -6,9 +6,14 @@ BOB10기 보안컨설팅 트랙 정시형멘토님 과제 : 보안에 안전한 
 
 FW를 구성하는 파일 3개(boot.tar, opt.tar, documentation.tar)는 용량문제로 못올림<br>
 
-여기서 다운받으면 됨         
+여기서 다운받으면 됨
 https://drive.google.com/drive/folders/1k5Zhtoml62OGA5u_E3H_XCcGo9k5dXt_?usp=sharing
 <br>
+구글드라이브에 FW파일도 있음(FW파일에 업데이터 실행시키면 됨)<br>
+FW의 구조는 다음과 같음<br>
+![image](https://user-images.githubusercontent.com/77532413/128612021-bec9be66-57b7-4a45-a46b-61ab4cb34267.png)
+<br>
+AES-CTR로 암호화함
 <br>
 
 해당 펌웨어의 구조는 다음과 같음<br>
